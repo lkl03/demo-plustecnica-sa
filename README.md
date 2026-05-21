@@ -1,2 +1,7 @@
-# demo-plustecnica-sa
-Demo web para Plustecnica Sa — diseñada por eterlab.
+# Plustecnica Sa
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
